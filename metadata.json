@@ -1,0 +1,6 @@
+{
+  "name": "R-IFS Sierpinski & Fractal Explorer",
+  "description": "Interactive research workspace and Chaos Game simulator for R-IFS (Rotation-Iterated Function Systems) generating the Sierpinski Triangle and fractal attractors based on research RC-000004-RIS-M0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
